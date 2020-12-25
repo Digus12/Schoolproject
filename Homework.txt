@@ -1,0 +1,24 @@
+1.
+a) int getLargerNumber(int num1,int num2);
+b) float getSmallestNumber(float num1,float num2, float num3);
+c) bool isPrime(int num);
+d) bool isContained(string sub, string original);
+e) float computeBalance(float initialBalance, float interestRate, int numberOfYears);
+f) void printbal(float initialBal, float interestRate, int numOfYears);
+
+
+g) void printCalendar(int month, int year);
+
+
+h) string computeWeekday(int day, int month, year);
+
+
+i) int getRandomNumber(int n);
+
+
+2.    Argument is nothing but an input to the function which we give it in the parantheses of the function . And return value is the value which is given by the function which we call as output and it will be given back to the calling function.
+
+    A method can have many number of arguments with different data types. And number of arguments it accepts is may be depends on your compiler version you are using but before using many no of arguments in a method think once. Because it is not a good design practice actually to pass many arguments .
+    One one return value it can give.
+
+

@@ -1,0 +1,23 @@
+*delcare your headers
+
+start main function:
+   Declare variables for the initial balance and annual interest rate
+  
+ Take the initial balance as input from user and store them in variables
+
+   Declare a string as variable to the store interest rate including % sign
+
+   Take the annual interest rate as input from the user
+
+   Find index of % sign in rate variable
+
+   Convert that rate to float which is annual interest rate entered by user
+
+   print Month Balance`
+
+   for i=1 to 12:
+       Declare a variable balance
+       Calculate month balance for month i using formula initial_balance * (1 + interest_rate/12)^(12*i)
+       print i and monthly balance with 2 digit decimal points
+   end the for loop 
+end the main function
